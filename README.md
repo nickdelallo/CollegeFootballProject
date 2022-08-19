@@ -3,7 +3,7 @@ The link to the report is in this repository. If you do not have Power BI, I pro
 
 The datasets I used were from https://collegefootballdata.com/ <br/>
 It includes all FBS teams and every FBS game played since 2013. <br/>
-I chose to remove the 2020 season data because most teams did not play all of their games and some teams did not play any games. <br/> <br/>
+I chose to remove the 2020 season data because most teams did not play all of their games. <br/> <br/>
 
 # Overview Page: <br/>
 Shows general College Football information as a whole and also highlights how strong the Power 5 teams are compared to the others.
@@ -20,7 +20,7 @@ Can be used to look at a certain season.
 ![5](https://user-images.githubusercontent.com/55556910/185651485-2df92ed1-a726-4fec-a869-8f26c2d9308f.png) <br/> <br/>
 
 # Matchup Page
-Shows the previous games two teams of choice have played against each other.
+Shows the previous games two teams have played against each other.
 ![6](https://user-images.githubusercontent.com/55556910/185651762-79be6b77-3047-4f01-ab3e-789d4de76dd8.png) <br/> <br/> <br/>
 Another example of two different teams.
 ![7](https://user-images.githubusercontent.com/55556910/185651919-2518790b-e26f-47a8-8c24-afb666a4fb73.png) <br/> <br/>
